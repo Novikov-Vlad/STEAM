@@ -1,0 +1,541 @@
+header{
+    width:100%;
+    background: #333333;
+}
+
+#content{
+  width: 300px;
+}
+
+.icon-bar{
+    color: white;
+    background-color: #fff;
+}
+
+.navbar-brand{
+    font-size: 41px;
+    color: #FFFFFF;
+    font-family: "logo";
+}
+
+nav{
+    font-size: 16px;
+    color: #A7A7A7;
+    font-family: "latoNav";
+}
+
+a{
+    color: #A7A7A7;
+}
+
+a:hover{
+    color: #FE2232;
+}
+
+.slogan{
+    color: white;
+    background: #333333;
+    padding-top: 51px;
+    font-size: 22px;
+    font-family: "lato";
+}
+
+b{
+    font-family: "latoB";
+}
+
+i{
+    color: red;
+}
+
+.container-left{
+    background: #333333;
+    height: 482px;
+}
+
+img{
+    padding-left: 25px;
+    height: 460px;
+}
+
+#btn_log1{
+    margin-top: 10px;
+    background: none;
+    border: #FE2232 solid 1px;
+    color: #A7A7A7;
+}
+
+#map {
+    height: 100%;
+    border: 3px solid #333333;
+  }
+
+#btn_log2{
+    margin-top: 10px;
+    background: #FE2232;
+    border: #FE2232 solid 1px;
+    color: white;
+}
+
+.form-inline{
+    display: inline-block;
+    margin: 5px 0 0 30px;
+}
+
+#formInline1{
+    width: 476px;
+    height: 41px;
+}
+
+#advertisman{
+    padding-right: 0;
+    padding-left: 0;
+    margin-top: 20px;
+}
+
+#formInline2{
+    width: 321px;
+    height: 41px;
+}
+
+.tabs{
+    width: 300px;
+    text-decoration: none;
+}
+
+.tabs li{
+    display: inline-block;
+}
+
+.tabs li+li{
+    margin-left: 20px;
+}
+
+.tabs:hover{
+    text-decoration: none;
+}
+
+.events{
+    display: inline-block;
+    border-bottom: 3px solid #ffffff;
+}
+
+.events:hover{
+    border-bottom: 3px solid #FE2232;
+    font-weight: bold;
+    color: #000;
+}
+
+#Events1{
+    background-color: white;
+}
+
+.input-group-addon{
+    background: url(../image/css_sprites.png);
+    background-position: -3px 2px;
+}
+
+.nav>li>a:hover {
+    text-decoration: none;
+    background: none;
+}
+
+.calendar{
+    vertical-align: middle;
+    display: inline-block;
+    height: 29px;
+    width: 29px;
+    background:url(../image/css_sprites.png);
+    background-position: -71px -67px;
+}
+
+.row{
+    margin: 0 auto;
+}
+
+.col-md-3{
+    width: 349px;
+    background: white;
+    margin: 0 0 0 20px;
+    padding: 0px;
+}
+
+.img{
+    width: 100%;
+    height: 211px;
+    background: url(../image/css_sprites.png);
+    background-position: -2775px -1820px;
+}
+
+.img1{
+    width: 349px;
+    height: 211px;
+    background: url(../image/css_sprites.png);
+    background-position: -1250px -890px;
+}
+
+.img2{
+    width: 349px;
+    height: 211px;
+    background: url(../image/css_sprites.png);
+    background-position: -370px -304px;
+}
+
+.img3{
+    width: 349px;
+    height: 211px;
+    background: url(../image/css_sprites.png);
+    background-position: -800px -571px;
+}
+
+.img4{
+    width: 349px;
+    height: 211px;
+    background: url(../image/css_sprites.png);
+    background-position: -2147px -1395px;
+}
+
+#pages{
+    top: 41px;
+}
+
+.nav-pills>li.active>a, .nav-pills>li.active>a:focus, .nav-pills>li.active>a:hover {
+    font-weight: bold;
+    color: black;
+    border-bottom: #FE2232 3px solid;
+    background: none;
+    border-radius: 0%;
+}
+
+
+.img5{
+    width: 349px;
+    height: 211px;
+    background: url(../image/css_sprites.png);
+    background-position: -1720px -1143px;
+}
+
+h2,h4,h5{
+   padding-left: 18px;
+}
+
+.jumbotron{
+    margin-bottom: 0;
+
+}
+
+#jumbotron1{
+    display: inline-block;
+    vertical-align: top;
+    text-align: center;
+    width: 172px;
+    height: 50px;
+}
+
+#jumbotron2{
+    display: inline-block;
+    left: 2px;
+    width: 173px;
+    height: 50px;
+}
+
+#buttons_tabs{
+    margin-top: 10px;
+}
+
+.jumbarticle{
+    font-family: "latoB";
+    margin-top: -30px;
+    position: relative;
+}
+
+.Male::before{
+    position: absolute;
+    background: url(../image/css_sprites.png);
+    width: 29px;
+    height: 29px;
+    background-position:-115px -110px;
+
+}
+
+#hot_event1{
+background: linear-gradient(to top,#F4F4F4 95%, white 95%);
+padding-left: 0;
+padding-right: 0;
+}
+
+.Page1{
+    color: white;
+    padding: 181px 0 17px 50px;
+    position: relative;
+}
+
+.Page1::before{
+    content: "";
+    left: 13px;
+    bottom: 13px;
+    width: 29px;
+    height: 29px;
+    border: 4px solid black;
+    position:absolute;
+    background: url(../image/css_sprites.png);
+    background-position: -115px -110px;
+    border-radius: 60px;
+}
+
+.Page1::after{
+    width: 29px;
+    height: 29px;
+    border: 5px solid black;
+    position:absolute;
+    background: url(../image/css_sprites.png);
+    background-position: -36px -36px;
+}
+
+.heart {
+    display: inline-block;
+    height: 20px;
+    width: 20px;
+    margin: 0 10px;
+    position: absolute;
+    right: 13px; top: 181px;
+    background-color: red;
+    transform: rotate(-45deg);
+}
+
+  .heart:before,
+  .heart:after {
+    content: "";
+    position: absolute;
+    height: 20px;
+    width: 20px;
+    background-color: red;
+    border-radius: 50%;
+  }
+  
+  .heart:before {
+    top: -10px;
+    left: 0;
+  }
+  
+  .heart:after {
+    left: 10px;
+    top: 0;
+  }
+
+  #button{
+    
+    padding-left: 0;
+    padding-right: 0;
+    background:#F4F4F4;
+    padding-top: 80px;
+    padding-bottom: 70px;
+  }
+
+  #learn_more{
+    width: 230px;
+    margin-left: 43%;
+}
+
+footer{
+    background:#333333;
+}
+
+.foter_menu{
+    margin: 0 auto;
+    width: 1200px;
+    border-bottom: #3E3E3E 1px solid;
+}
+
+.foter_menu>ul {
+    text-align: center;
+    width: 100%;
+    min-height: 50px;
+}
+
+.foter_menu>ul>li {
+    text-align: center;
+    display: inline-block;
+    margin: 0 0 0 10px;
+    padding-bottom: 20px;
+    padding-top: 20px;
+    position: relative;
+}
+
+.foter_menu>ul>li>a {
+    color: #fff;
+    font-size: 13px;
+    text-shadow: 0 0 1px grey;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-size: 14px;
+}
+
+.foter_menu ul>li:after {
+    content: "";
+    display: inline-block;
+    position: relative;
+    top: -3px;
+    left: 0;
+    margin-left: 10px;
+    width: 5px;
+    height: 5px;
+    border: 1px solid #fff;
+    border-radius: 5px;
+    background-color: #fff;
+    opacity: 0.25;
+}
+
+@media screen and (max-width:500px) {
+.container-left{
+    display: none;
+}
+.slogan{
+    display: none;
+}  
+
+.form-inline{
+    width: 232px;
+}
+
+.form-control{
+    width: 232px;
+}
+
+#formInline1{
+    width: 232px;
+}
+
+#formInline2{
+    width: 292px;
+}
+
+#page2,#page3,#page4,#page5,#page6{
+    margin-top: 41px;
+}
+
+.form-inline{
+    margin: 10px 0 0 10px;
+}
+
+.input-group-addon{
+   margin: 100px 100px 100px 100px;
+}
+
+.glyphicon-calendar{
+    font-size: 29px;
+}
+
+footer{
+    display: none;
+}
+
+}
+
+@media screen and (max-width:800px) {
+    .container-left{
+        display: none;
+    }
+    .slogan{
+        display: none;
+    }  
+    
+    #formInline1{
+        width: 232px;
+    }
+    
+    #formInline2{
+        width: 292px;
+    }
+    
+    #page2,#page3,#page4,#page5,#page6{
+        margin-top: 11px;
+    }
+    
+    .form-inline{
+        margin: 10px 0 0 10px;
+    }
+    
+    .input-group-addon{
+        
+       margin: 100px 100px 100px 100px;
+    }
+    
+    .input-group-addon:last-child {
+        width: 20px;
+    }
+
+    .glyphicon-calendar{
+        font-size: 29px;
+    }
+
+    #learn_more{
+        margin-left: 23%;
+    }  
+    
+    footer{
+        display: none;
+    }
+    
+    }
+
+
+
+@media screen and (max-width:1000px) {
+    .container-left{
+        display: none;
+    }
+    .slogan{
+        display: none;
+    }  
+    
+    #formInline1{
+        width: 232px;
+    }
+    
+    #formInline2{
+        width: 232px;
+    }
+    
+    #page2,#page3,#page4,#page5,#page6{
+        margin-top: 41px;
+    }
+    
+    .form-inline{
+        margin: 10px 0 0 10px;
+    }
+    
+    .input-group-addon{
+       margin: 100px 100px 100px 100px;
+    }
+    
+    .glyphicon-calendar{
+        font-size: 29px;
+    } 
+    
+    footer{
+        display: none;
+    }
+    
+    }
+
+@font-face {
+    font-family: "logo";
+    src: url(../fonts/8143.otf);
+}
+
+@font-face {
+    font-family: "latoB";
+    src: url(../fonts/Lato-Black.ttf);
+}
+
+
+@font-face {
+    font-family: "lato";
+    src: url(../fonts/Lato-Thin.ttf);
+}
+
+@font-face {
+    font-family: "latoNav";
+    src: url(../fonts/Lato-Bold.ttf);
+}
